@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dhananjaysm
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning NextJS, TypeScript, RESTAPIs
+- 💞️ I’m looking to collaborate on small side projects
+- 📫 How to reach me twitter: @dhananjaysm07
